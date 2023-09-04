@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497078', 'me', true],
-  ['6281255369012', 'Ash', true], 
+  ['94704891959', 'me', true],
+  ['94704891959', '𝐓𝐇𝐀𝐑𝐄𝐄 & 𝐊𝐀𝐕𝐄𝐄', true], 
   [''] 
 ] //Number of owners
 
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝐓𝐇𝐀𝐑𝐄𝐄 & 𝐊𝐀𝐕𝐄𝐄'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = '𝐓𝐇𝐀𝐑𝐄𝐄 & 𝐊𝐀𝐕𝐄𝐄┃ᴮᴼᵀ' 
+global.author = '@𝐓𝐇𝐀𝐑𝐄𝐄 & 𝐊𝐀𝐕𝐄𝐄' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
